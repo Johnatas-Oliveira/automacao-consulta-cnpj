@@ -50,4 +50,4 @@ CNPJ, Razão Social, Nome Fantasia, Situação Cadastral, Data da Situação,
 Natureza Jurídica, Porte, Capital Social, Data de Abertura, CNAE
 Principal, Logradouro, Número, Bairro, Cidade, UF, CEP, Telefone, Email,
 Sócios/QSA (nome e qualificação de cada sócio, separados por `;`) e
-Status da consulta (Encontrado / Não encontrado / Erro).
+Status da consulta (Encontrado / Não encontrado / Erro)..
