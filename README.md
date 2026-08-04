@@ -1,4 +1,4 @@
-# Automação para Consulta de CNPJ´S
+# Automação para Consulta e Enriquecimento de Dados de CNPJs
 
 ![Como funciona a automação de Consulta CNPJ](fluxo_consulta_cnpj.png)
 
