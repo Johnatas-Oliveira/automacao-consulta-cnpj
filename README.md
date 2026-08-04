@@ -1,4 +1,4 @@
-# automacao-consulta-cnpj
+# Automacao para Consulta de CNPJ´S
 
 Automação em Python para consulta e enriquecimento de dados cadastrais de
 CNPJs utilizando APIs públicas (BrasilAPI, com fallback para ReceitaWS).
