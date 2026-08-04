@@ -2,8 +2,7 @@
 
 ![Como funciona a automação de Consulta CNPJ](fluxo_consulta_cnpj.png)
 
-Automação em Python para consulta e enriquecimento de dados cadastrais de
-CNPJs utilizando APIs públicas (BrasilAPI, com fallback para ReceitaWS).
+Automação desenvolvida em Python para consulta, enriquecimento e organização de dados cadastrais de CNPJs, utilizando APIs públicas e estratégia de fallback para aumentar a confiabilidade das consultas.
 
 A partir de uma lista de CNPJs (planilha `.xlsx`, `.xls` ou `.csv`), a
 automação consulta razão social, situação cadastral, endereço, contato,
